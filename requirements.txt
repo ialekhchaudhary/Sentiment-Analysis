@@ -1,0 +1,17 @@
+numpy
+pandas
+tweepy
+matplotlib
+seaborn
+textblob
+mysql-connector-python
+geopy
+plotly
+nltk
+dash
+plotly
+dash
+plotly
+pandas
+flask
+psycopg2
