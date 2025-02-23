@@ -44,7 +44,7 @@ app.layout = html.Div(children=[
     html.H2('Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking ', style={
         'textAlign': 'center'
     }),
-    html.H4('(Last updated: Aug 23, 2019)', style={
+    html.H4('(Updated 2025)', style={
         'textAlign': 'right'
     }),
     
@@ -56,7 +56,7 @@ app.layout = html.Div(children=[
     html.Div(
         className='row',
         children=[ 
-            dcc.Markdown("__Author's Words__: Dive into the industry and get my hands dirty. That's why I start this self-motivated independent project. If you like it, I would appreciate for starring⭐️ my project on [GitHub](https://github.com/Chulong-Li/Real-time-Sentiment-Tracking-on-Twitter-for-Brand-Improvement-and-Trend-Recognition)!✨"),
+            dcc.Markdown("__Author's Words__: Dive into the industry and get my hands dirty. That's why I start this self-motivated independent project. If you like it, I would appreciate for starring⭐️ my project on [GitHub](https://github.com/ialekhchaudhary/Sentiment-Analysis.git)!✨"),
         ],style={'width': '35%', 'marginLeft': 70}
     ),
     html.Br(),
@@ -85,7 +85,7 @@ app.layout = html.Div(children=[
                     ),
                     html.A(
                         'GitHub',
-                        href='https://github.com/Chulong-Li/Real-time-Sentiment-Tracking-on-Twitter-for-Brand-Improvement-and-Trend-Recognition'
+                        href='https://github.com/ialekhchaudhary/Sentiment-Analysis.git'
                     )                    
                 ]
             ),

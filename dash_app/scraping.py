@@ -16,7 +16,7 @@ from textblob import TextBlob
 class MyStreamListener(tweepy.StreamListener):
     '''
     Tweets are known as “status updates”. So the Status class in tweepy has properties describing the tweet.
-    https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html
+    https://developer.x.com/en/docs/tweets/data-dictionary/overview/tweet-object.html
     '''
     
     def on_status(self, status):
